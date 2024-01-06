@@ -1,0 +1,21 @@
+
+.prog{
+    width: 300px;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    display: grid; 
+    grid-template-columns: 300px 300px;
+    grid-gap: 2rem;
+}
+
+
+.skill-title{
+    font-size: 1.2rem;
+    font-family: poppins bold;
+}
+
+.progress-bar{  
+    width: 300px;  
+    background-color: inherit;
+    margin-top: -1.6rem;
+}

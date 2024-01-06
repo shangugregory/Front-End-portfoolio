@@ -1,0 +1,37 @@
+
+.work-container ul {
+    list-style: none;
+}
+
+
+.work-div1 {
+    width: 140%;
+    display: flex;
+}
+.work-div1 div{
+    width: 80%;
+    
+}
+
+.work-container ul div button {
+    margin-top: 1rem;
+    height: 3rem;
+
+}
+
+h1 {
+    font-family: poppins bold;
+    font-size: 1.0rem;
+    margin-top: 0;
+    color: #ff5823; 
+    margin-top: 1rem;
+    height: 3rem;
+
+}
+
+.work-desc {
+    margin-top: 0;
+    width: 110%;
+    font-family: poppins semibold;
+    font-size: 0.9rem;
+}

@@ -1,0 +1,19 @@
+.intrest-container{
+    width: 700px;
+    margin-left: 2rem;
+    overflow: hidden;
+
+}
+
+.intrest-level{
+    font-family: poppins bold;
+    font-size: 1.0rem;
+    margin-top: 0;
+    color: #ff5823;;
+
+}
+.intrest-more{
+    font-family: poppins semibold;
+    font-size: 0.8rem;
+    margin-top: -2rem;
+}
