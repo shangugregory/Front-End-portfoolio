@@ -1,0 +1,32 @@
+.body-div{
+    background: white;
+    margin: 3rem;
+    box-shadow: rgba(0, 0, 0, 0.2) 10px 8px 24px;
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    width: 90%;
+}
+
+.resume-container p{
+ text-align: center;
+ font-size: 1.2rem;
+}
+
+.resume-container h1{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 100%;
+}
+.navigation-resume{
+    display: flex;
+}
+
+
+.resume-navigation{
+    display: flex;
+}
+
+
+

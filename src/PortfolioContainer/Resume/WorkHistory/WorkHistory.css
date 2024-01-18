@@ -1,0 +1,63 @@
+
+.work-container h1 {
+    font-family: poppins bold;
+    font-size: 1.3rem;
+    margin-top: 0;
+    color: #ff5823; 
+    margin-top: 1rem;
+    height: 3rem;
+    text-align: center;
+    width: 100%;
+}
+
+
+.work_header{
+    color: #ff5823; 
+    font-family: poppins semi-bold;
+    font-size: 1.2rem;
+    margin-top: -2rem;
+    margin-top: 1rem;
+    text-align: left;
+    margin-left: 0.8rem;
+    width: 100%;
+    font-weight: bold;
+}
+.span{
+    color: black;
+}
+.work-div div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 0.8rem;
+    width: 120%;
+
+    
+}
+
+.job-title{    
+    color: hsl(0, 0%, 3%); 
+    font-family: poppins semi-bold;
+    font-size: 1.2rem;
+    
+    
+    
+}
+
+.job-date{    
+    color: #ff5823; 
+    font-family: poppins ssemi-bold;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: right;
+
+    
+}
+ol {
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+
+

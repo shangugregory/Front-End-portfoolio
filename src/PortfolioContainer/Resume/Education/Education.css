@@ -1,0 +1,38 @@
+.education-container{
+    margin-top: 1rem;
+    width: 100%;
+}
+.edu-div1{
+    display: flex;
+    width: 100%;
+    margin-left: 2rem;
+    justify-content: space-between;
+}
+.education-level{
+    font-family: poppins bold;
+}
+
+.btn-div{margin-left: rem;}
+
+.education-level  {
+    color:  #ff5823;
+    margin-top: 1rem;
+    height: 3rem;
+    font-size: 1.5rem;
+
+}
+.div-date{
+    font-family: poppins semibold;
+    margin-top: 1.2rem;
+    margin-left: 3rem;
+}
+
+.edu-div3{
+    font-family: poppins semibold;
+    font-size: 1.2rem;
+    margin-left: 2rem;
+}
+.div-desc{
+    margin-top: 0;
+    width: 110%;
+}

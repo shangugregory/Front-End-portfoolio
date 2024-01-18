@@ -1,0 +1,34 @@
+.project-list-container{
+    width: 700px;
+    margin-left: 2rem;
+    overflow: hidden;
+} 
+.project{
+    display: flex;
+    width: 100%;
+}
+
+.project-title{
+    width: 70%;
+}
+
+.project-title-text{
+    color:#ff5823;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    font-size: 1.5rem;
+    margin-bottom: .2rem;
+    font-family: poppins bold;
+}
+.project-btn a{
+    color: aliceblue;
+    text-decoration: none;
+}
+.project-tech{
+    font-family: poppins semibold;
+    font-size: 1.2rem;
+}
+.btn-roject{
+    border-radius: 12px;
+}
+
